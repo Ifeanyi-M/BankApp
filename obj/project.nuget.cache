@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZTfUVd8ImzPyx0JjEjlQM6gkL97LoQDk2sog4RLgZjfgfFCrVAJAup24U96qWYfSSdIwAml8ZOBAoJeVdhXP+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DECAGON\\source\\repos\\MYBANKAPP\\MYBANKAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DECAGON\\.nuget\\packages\\betterconsoletables\\1.1.3\\betterconsoletables.1.1.3.nupkg.sha512",
+    "C:\\Users\\DECAGON\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
+    "C:\\Users\\DECAGON\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DECAGON\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\DECAGON\\.nuget\\packages\\spectre.console\\0.32.1\\spectre.console.0.32.1.nupkg.sha512",
+    "C:\\Users\\DECAGON\\.nuget\\packages\\spectre.console.extensions.table\\1.0.0\\spectre.console.extensions.table.1.0.0.nupkg.sha512",
+    "C:\\Users\\DECAGON\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\DECAGON\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\DECAGON\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\DECAGON\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\DECAGON\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\DECAGON\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\DECAGON\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\DECAGON\\.nuget\\packages\\wcwidth\\0.2.0\\wcwidth.0.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
